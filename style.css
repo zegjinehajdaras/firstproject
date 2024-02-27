@@ -46,3 +46,16 @@ h1 {
 
 /*# sourceMappingURL=main.css.map */
 
+.hero-banner{
+  background-image: url(./image/image-banner.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  background-repeat: no-repeat;
+  
+}
+.banner_text{
+  padding-top: 25vh;
+  color: white;
+
+}
